@@ -1,2 +1,2 @@
-# nn-zero-to-hero-notes
-This is repo is created to put everything I learned from Neural Networks: Zero to Hero course by Andrej Karpathy
+# Notes for Neural Networks: Zero to Hero course by Andrej Karpathy
+This is repo is created to put everything I'm learning while following this course.
